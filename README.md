@@ -1,2 +1,3 @@
-# Helmi-Kruger
-Im a beginer😒
+## Helmi-Kruger
+![Helmikruger21](img/github-header-banner.png)
+
